@@ -6,7 +6,7 @@ Make by group 2210917 - 231
 >* pandas 1.5.0 (or any later version)
 >* gurobipy 10.0.3 (or any later version)
 
-To solve the problem 1, update the data in xlsx file following the rule same as the example. After that just run the python file with 'python p1.py' or 'python3 p1.py'.
+To solve the problem 1, update the data in xlsx file following the rule same as the example. After that just run the python file with `python p1.py` or `python3 p1.py`.
 The problem 2 can be run online on GoogleColab.
 
 
