@@ -1,5 +1,5 @@
 # This is the program to solve the problem in Mathematical Modeling Assignment HCMUT
-Make by group 2210917 - 231
+Make by group 2210917 in semester 231 - HCMUT
 ## Requirements
 >* python 3.6 (or any later version)
 >* numpy 1.24.0 (or any later version)
